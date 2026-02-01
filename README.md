@@ -27,7 +27,7 @@
 
 - 💻 **Full-stack Engineer** with deep expertise in **TypeScript, Node.js, React, Next.js, and PostgreSQL**.
 - 💰 Specialized in **Fintech Systems**, designing **Atomic Transactions** and complex backend logic for financial integrity.
-- 🏗️ Proven ability to solve **infrastructure challenges**, such as architecting asynchronous polling systems to bypass proxy timeouts[: 7].
+- 🏗️ Proven ability to solve **infrastructure challenges**, such as architecting asynchronous polling systems to bypass proxy timeouts.
 - 🌍 Experienced in **Distributed Tracing (Jaeger)**, **CI/CD pipelines**, and **Microservices concepts**.
 - 🎓 B.Sc. in **Computer Science & Engineering** from **Jahangirnagar University**.
 
@@ -83,10 +83,10 @@
 - **Observability:** Integrated **Jaeger** for bottleneck detection and **Sentry** for error tracking.
 
 ---
-
+<!-- 
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+</div> -->
