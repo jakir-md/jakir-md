@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I’m Md Jakir Hossain 👋</h1>
 
 <h3 align="center">
-  Full Stack Engineer | Backend Architecture & Fintech Specialist
+  Full Stack Engineer
 </h3>
 
 <p align="center">
